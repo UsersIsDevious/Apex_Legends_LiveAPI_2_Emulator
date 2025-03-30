@@ -1,0 +1,1 @@
+# Apex_Legends_LiveAPI_2_Emulator
